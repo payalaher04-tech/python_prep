@@ -1,0 +1,9 @@
+{
+    "name": "Payal",
+    "age": 22,
+    "course": "Python",
+    "branch": "AIML",
+    "city": "Pune",
+    "marks": 90,
+    "skills": ["Python", "SQL", "HTML"]
+}

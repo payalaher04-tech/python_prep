@@ -1,0 +1,7 @@
+Name: Pawan
+Age: 22
+Course: Python
+Branch: AIML
+City: Pune
+Marks: 90
+Skills: Python, SQL, HTML
